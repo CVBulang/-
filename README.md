@@ -5,10 +5,6 @@
       <p><b>硕士研究生</b></p>
       <p><b>重庆邮电大学通信学院</b></p>
       <p><b>邮箱：chenzqian@yeah.net</b></p>
-    </td>
-    <td width="25%">
-      <img src="zj.jpg" width="100%">      <!--% 插入证件照代码-->
-    </td>
   </tr>
 </table>
 
